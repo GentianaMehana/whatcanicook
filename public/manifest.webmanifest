@@ -1,0 +1,10 @@
+{
+  "name": "What Can I Cook?",
+  "short_name": "Cook Ideas",
+  "description": "Find something delicious to cook with the ingredients you already have.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#f8f7f2",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
